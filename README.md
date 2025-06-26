@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deepagwarad
-- 👀 I’m interested in Web Development, Java
+- 👀 I’m interested in Spring,SpringBoot,Microservices ,Java and MySQL
 - 🌱 I’m currently learning DSA in Java
 - 😄 Pronouns: her/she
 
